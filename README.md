@@ -1,4 +1,4 @@
-#  Applicatoon for School (New Students Registration and School Information)
+#  Application for School (New Students Registration and School Information)
 Aplikasi PPDB ini merupakan aplikasi untuk membantu panitia penerimaan siswa baru di sekolah yang berisi informasi tentang sekolah dan formulir pendaftaran siswa baru yang sangat membantu sekolah dan user untuk melakukan pendaftaran secara online
 
 ## Fiture in the Application
