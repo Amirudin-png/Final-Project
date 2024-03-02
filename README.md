@@ -1,7 +1,7 @@
-# APLIKASI PPDB (New Students Registration)
+#  Applicatoon for School (New Students Registration and School Information)
 Aplikasi PPDB ini merupakan aplikasi untuk membantu panitia penerimaan siswa baru di sekolah yang berisi informasi tentang sekolah dan formulir pendaftaran siswa baru yang sangat membantu sekolah dan user untuk melakukan pendaftaran secara online
 
-## Fitur Aplikasi PPDB (New Students Registration)
+## Fiture in the Application
 - About
 - Contact Us
 - Form Registration
@@ -21,7 +21,7 @@ Aplikasi ini dibangun dengan menggunakan :
 
 
 ## Structure
-Aplikasi PPDB
+Application for School
 
 
 
